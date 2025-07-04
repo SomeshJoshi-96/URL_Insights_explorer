@@ -73,9 +73,9 @@ A Streamlit application that uses Retrieval-Augmented Generation (RAG) to extrac
 > *Include screenshots in the `docs/screenshots/` folder and reference them below.*
 
 ```markdown
-![Process URLs](docs/screenshots/process_urls.png)
+![Process URLs](screenshots/2.png)
 
-![Answer Output](docs/screenshots/answer_output.png)
+![Answer Output](screenshots/1.png)
 ```
 
 ---
