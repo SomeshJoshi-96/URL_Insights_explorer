@@ -70,11 +70,11 @@ A Streamlit application that uses Retrieval-Augmented Generation (RAG) to extrac
 
 ## 📸 Screenshots
 
-```markdown
+
 ![Process URLs](/screenshots/2.png)
 
 ![Answer Output](/screenshots/1.png)
-```
+
 
 ---
 
@@ -86,7 +86,3 @@ Contributions welcome! Please:
 * Submit pull requests with enhancements or fixes
 
 ---
-
-## 📄 License
-
-Distributed under the MIT License. See [LICENSE](LICENSE) for details.
