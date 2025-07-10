@@ -1,2 +1,7 @@
 langchain==0.3.26
+langchain_chroma==0.2.4
+langchain_community==0.3.27
+langchain_groq==0.3.5
+langchain_huggingface==0.3.0
+python-dotenv==1.1.1
 streamlit==1.43.2
